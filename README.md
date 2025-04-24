@@ -21,7 +21,7 @@ This Power BI dashboard presents essential website metrics including page views,
     3. Open the .pbix file in Power BI Desktop
 
 ## 👀 CheckOut the Workings
-<img src="https://drive.google.com/file/d/1irYVtP1tlivjryZaoIBJlGtZ5AI_R-9l/view" alt="Sample Image" style="width:50%; height:auto;">
+<img src="https://github.com/Kunal-Rawat007/Project_images/blob/main/wpa1.png" alt="Sample Image" style="width:50%; height:auto;">
 
 ## 💡 Usage
 - Use the navigation tabs to explore different website sections

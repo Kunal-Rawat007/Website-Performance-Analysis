@@ -26,7 +26,7 @@ This Power BI dashboard presents essential website metrics including page views,
 - Hover over visualizations for detailed tooltips
 
 ## Data Sources
-- [a link](https://github.com/ldakjfla/website_performance_analytics.csv)
+- [CSV Data Source](https://github.com/ldakjfla/website_performance_analytics.csv)
 
 ## Future Improvements
 - Add real-time data connection

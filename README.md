@@ -26,6 +26,11 @@ This Power BI dashboard presents essential website metrics including page views,
     <img src="https://github.com/Kunal-Rawat007/Project_images/blob/main/wpa2.png" alt="Sample Image" style="width: 32%; height: auto;">
     <img src="https://github.com/Kunal-Rawat007/Project_images/blob/main/wpa3.png" alt="Sample Image" style="width: 32%; height: auto;">
 </div>
+<div style="display: flex; flex-direction: row; justify-content: space-between; gap: 15px; margin: 20px 0;">
+    <img src="https://github.com/Kunal-Rawat007/Project_images/blob/main/wpa4.png" alt="Sample Image" style="width: 32%; height: auto;">
+    <img src="https://github.com/Kunal-Rawat007/Project_images/blob/main/wpa5.png" alt="Sample Image" style="width: 32%; height: auto;">
+    <img src="https://github.com/Kunal-Rawat007/Project_images/blob/main/wpa6.png" alt="Sample Image" style="width: 32%; height: auto;">
+</div>
     
 ## 💡 Usage
 - Use the navigation tabs to explore different website sections
